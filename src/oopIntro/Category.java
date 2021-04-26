@@ -1,6 +1,7 @@
 package oopIntro;
 
 public class Category {
+	//Özellik Nesnesi
 	int id;
 	String categoryName;
 	
